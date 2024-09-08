@@ -1,7 +1,7 @@
 # Projeto Final Modulo 2 Técnicas de Programação I (PY) | ADA TECH
 
 ## instalação de dependências:
-`1)` Crie um novo terminal no Visual Code apertando: ctrl + shift + ` <br>
+`1)` Crie um novo terminal no Visual Code apertando: *ctrl + shift + `* <br>
 `2)` Digite no terminal: pip install -r requirements.txt
 
 ## Descrição:
