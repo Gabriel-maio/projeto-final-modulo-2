@@ -1,8 +1,9 @@
 # Projeto Final Modulo 2 Técnicas de Programação I (PY) | ADA TECH
 
 ## instalação de dependências:
-`1)` Crie um novo terminal no Visual Code apertando: *ctrl + shift + `* <br>
-`2)` Digite no terminal: pip install -r requirements.txt
+`1)` Acessar sub-menu **Terminal** no canto superior esquerdo 
+`2)` Criar em **New Terminal**
+`3)` Digite no terminal: *pip install -r requirements.txt*
 
 ## Descrição:
 Projeto final de conclusão do módulo 2 "Técnicas de Programação I (PY)" <br>
@@ -18,7 +19,7 @@ Análise exploratória de dados e estátisticas de um Data Frame de sua escolha.
 `1)` Gráficos para análise gerados utilizando ferramenta **pandas**. <br>
 `2)` Análise detalhada dos gráficos com citações e gráficos de terceiros <br>
      disponibilizados publicamente para melhor contextualização. <br>
-`3)` Conclusão final do projeto com resumo de tudo que foi descoberto durante a análise dos dados. <br>
+`3)` Conclusão final do projeto com resumo de tudo que foi descoberto <br> durante a análise dos dados.
 
 ## Data Frame Utilizado:
 https://www.kaggle.com/datasets/gregorut/videogamesales/data
