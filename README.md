@@ -1,16 +1,16 @@
 # Projeto Final Modulo 2 Técnicas de Programação I (PY) | ADA TECH
 
 ## instalação de dependências:
-`1)` Acessar sub-menu **Terminal** no canto superior esquerdo 
-`2)` Criar em **New Terminal**
-`3)` Digite no terminal: *pip install -r requirements.txt*
+`1)` Acessar sub-menu **Terminal** no canto superior esquerdo <br>
+`2)` Criar em **New Terminal** <br>
+`3)` Digite no terminal: *pip install -r requirements.txt* 
 
 ## Descrição:
 Projeto final de conclusão do módulo 2 "Técnicas de Programação I (PY)" <br>
 do curso *Santander Coders 2024.1 | Data Science*.
 
-Projeto de Análise exploratória do Data Frame de vendas de jogos de video game <br>
-disponibilizado por **GregorySmith** na plataforma ***kaggle.com***.
+Projeto de Análise exploratória do Data Frame de vendas de jogos de <br>
+video game disponibilizado por **GregorySmith** na plataforma ***kaggle.com***.
 
 ## Objetivo do Projeto:
 Análise exploratória de dados e estátisticas de um Data Frame de sua escolha. 
