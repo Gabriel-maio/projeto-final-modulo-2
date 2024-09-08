@@ -35,6 +35,6 @@ https://www.kaggle.com/datasets/gregorut/videogamesales/data
 `NuymPy` https://numpy.org/ <br>
 `SeaBorn` https://seaborn.pydata.org/ <br>
 
-### 3) ambiente de Trabalho:
-`Visual Studio Code` https://code.visualstudio.com/
+### 3) Ambiente de Trabalho:
+`Visual Studio Code` https://code.visualstudio.com/ <br>
 `Jupyter Notebook` https://jupyter.org/
