@@ -1,9 +1,9 @@
 # Projeto Final Modulo 2 Técnicas de Programação I (PY) | ADA TECH
 
 ## instalação de dependências:
-`1)` Acessar sub-menu **Terminal** no canto superior esquerdo <br>
-`2)` Criar em **New Terminal** <br>
-`3)` Digite no terminal: *pip install -r requirements.txt* 
+`1)` Via Visual Studio Code, acessar sub-menu **Terminal** no canto superior esquerdo <br>
+`2)` Criar novo terminal em **New Terminal** <br>
+`3)` Digite no terminal: ***pip install -r requirements.txt*** 
 
 ## Descrição:
 Projeto final de conclusão do módulo 2 "Técnicas de Programação I (PY)" <br>
@@ -35,5 +35,6 @@ https://www.kaggle.com/datasets/gregorut/videogamesales/data
 `NuymPy` https://numpy.org/ <br>
 `SeaBorn` https://seaborn.pydata.org/ <br>
 
-### 3) ambiente de Exibição:
+### 3) ambiente de Trabalho:
+`Visual Studio Code` https://code.visualstudio.com/
 `Jupyter Notebook` https://jupyter.org/
